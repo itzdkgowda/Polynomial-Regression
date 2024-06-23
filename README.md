@@ -1,6 +1,6 @@
-# Stock Price Prediction with Polynomail Regression
+# Stock Price Prediction with Polynomial Regression
 
-This program predicts future stock prices using Polynomail  regression. It takes historical stock price data from a CSV file and forecasts the next 30 days of stock prices.
+This program predicts future stock prices using Polynomial  regression. It takes historical stock price data from a CSV file and forecasts the next 30 days of stock prices.
 
 ## Features
 
